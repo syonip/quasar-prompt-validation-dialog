@@ -1,0 +1,22 @@
+{
+  "name": "quasar-prompt-validation-dialog",
+  "version": "1.0.0",
+  "description": "A quasar component adding input validation support for the prompt dialog",
+  "main": "QPromptValidationDialog.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "quasar",
+    "dialog",
+    "prompt",
+    "input",
+    "validation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syonip/quasar-prompt-validation-dialog"
+  },
+  "author": "syonip",
+  "license": "ISC"
+}
